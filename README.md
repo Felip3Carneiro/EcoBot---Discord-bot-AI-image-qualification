@@ -62,10 +62,10 @@ Antes de começar, você precisará ter instalado:
 
 ```bash
 # Clone este repositório
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/Felip3Carneiro/EcoBot---Discord-bot-AI-image-qualification.git
 
 # Entre na pasta
-cd nome-do-repositorio
+cd EcoBot---Discord-bot-AI-image-qualification
 
 # Crie um ambiente virtual
 python -m venv .venv
@@ -84,6 +84,3 @@ pip install -r requirements.txt
 # Execute o projeto
 python main.py
 ```
-### Dicas de uso:
-* **Badges/Tags:** Ali no topo, você pode usar o site [Shields.io](https://shields.io/) para gerar as tags das tecnologias que você domina, isso deixa o repositório muito mais atraente visualmente.
-* **Imagens:** Para a "Visual Preview", gravar a tela usando ferramentas como o *Loom* ou transformar um pequeno vídeo em `.gif` ajuda os recrutadores a entenderem seu projeto em segundos sem precisarem baixar nada.
