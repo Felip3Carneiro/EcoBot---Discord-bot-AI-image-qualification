@@ -12,7 +12,7 @@
   width="100" 
   height="100"
 ><br>
-Felipe
+Felipe Carneiro
 </a>
 
 </td>
