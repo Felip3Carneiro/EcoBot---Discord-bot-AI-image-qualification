@@ -1,0 +1,4 @@
+0 garrafa
+1 sacola
+2 papel
+3 isopor
