@@ -28,9 +28,11 @@ Modelo de IA criado em python e executado no Discord que ajuda pessoas reciclar 
 ## 🎥 Exemplo visual
 <img width="436" height="878" alt="image" src="https://github.com/user-attachments/assets/096b807b-95e2-4fb7-b05f-9d358bfc8a4f" />
 
+> *Quando reconhece o lixo retorna uma forma de o reusar para um futuro melhor*
+
 <img width="492" height="750" alt="Captura de tela 2026-08-29 173541" src="https://github.com/user-attachments/assets/d8ab5e9b-a05a-4705-8475-6e73915e4b2a" />
 
-> *Imagem mostrando o bot em ação*
+> *Mas quando o lixo reconhecido ou objeto desconhecido não está no seu banco de dados, ele retorna um erro*
 
 ## 🛠️ Tech Stack
 As seguintes ferramentas foram usadas na construção do projeto:
