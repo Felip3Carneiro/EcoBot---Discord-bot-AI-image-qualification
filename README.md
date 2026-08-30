@@ -56,7 +56,7 @@ Com esse projeto pode aprender mais sobre as aplicações de IA no mundo, sendo 
 
 Antes de começar, você precisará ter instalado:
 
-- Biblioteca do Discord (py -3 -m pip install -U discord.py)
+- Bibliotecas do requirements.txt(discird.py, tensorflow, pillow, numpy, etc)
 - Python 3.12 ou superior
 - (Opcional) Visual Studio Code
 
